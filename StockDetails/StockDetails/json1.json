@@ -1,0 +1,29 @@
+{
+    "StockAccount": [
+        {
+            "StockName": "BitCoin",
+            "NumOfShares": 200,
+            "SharePrice": 300
+        },
+        {
+            "StockName": "Tata",
+            "NumOfShares": 150,
+            "SharePrice": 500
+        },
+        {
+            "StockName": "JSW",
+            "NumOfShares": 100,
+            "SharePrice": 700
+        },
+        {
+            "StockName": "MRF",
+            "NumOfShares": 50,
+            "SharePrice": 900
+        },
+        {
+            "StockName": "LemonTree",
+            "NumOfShares": 30,
+            "SharePrice": 1200
+        }
+    ]
+}
